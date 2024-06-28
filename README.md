@@ -2,7 +2,7 @@
 I develop system software, programming languages, parsers, compilers.
 
 ## Here are my stats 🚀
-[![Knavels's GitHub stats](https://github-readme-stats.vercel.app/api?username=knavels)](https://github.com/dezashibi)
+[![Knavels's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezashibi)](https://github.com/dezashibi)
 
 ## My skills 😏
 ### My daily drivers
