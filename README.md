@@ -1,6 +1,9 @@
 # Hey, Navid's here 👋
 I develop system software, programming languages, parsers, compilers.
 
+## My C Portfolio
+You can check out [here](https://github.com/dezashibi-c-projects) for my articles and projects showcasing my C programming skills.
+
 ## Here are my stats 🚀
 [![Knavels's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezashibi)](https://github.com/dezashibi)
 
