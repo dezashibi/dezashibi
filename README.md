@@ -2,7 +2,7 @@
 I develop system software, programming languages, parsers, compilers.
 
 ## My C Portfolio
-You can check out [here](https://github.com/dezashibi-c-projects) for my articles and projects showcasing my C programming skills.
+You can check out [here](https://github.com/dezashibi-c) for my articles and projects showcasing my C programming skills.
 
 ## My skills 😏
 ### My daily drivers
