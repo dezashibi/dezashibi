@@ -9,4 +9,4 @@ You can check out [here](https://github.com/dezashibi-c-projects) for my article
 ![My Skills](https://skillicons.dev/icons?i=c,rust)
 
 ### Also experienced in
-![My Skills](https://skillicons.dev/icons?i=ts,js,svelte,tailwind,phaser)
+![My Skills](https://skillicons.dev/icons?i=python,ts,js,svelte,tailwind,phaser)
