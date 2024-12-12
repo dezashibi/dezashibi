@@ -2,7 +2,7 @@
 I develop system software, programming languages, parsers, compilers.
 
 ## Blog
-Checkout my blog I write about coding, games, etc: [Dezashibi.com](https://dezashibi.com).
+Checkout my blog I write about coding (c, odin, ...), games, etc: [dezashibi.com](https://dezashibi.com).
 
 ## My C Portfolio
 You can check out [here](https://github.com/dezashibi-c) for my articles and projects showcasing my C programming skills.
