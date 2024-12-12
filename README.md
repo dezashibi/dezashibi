@@ -12,4 +12,4 @@ You can check out [here](https://github.com/4odin)
 
 ## Other
 I've been using one or more of these since 15+ years ago
-![My Skills](https://skillicons.dev/icons?i=c,rust,cpp,csharp,php,python,ts,js,svelte,tailwind,phaser)
+![My Skills](https://skillicons.dev/icons?i=c,rust,cpp,cs,php,python,ts,js,svelte,tailwind,phaser)
