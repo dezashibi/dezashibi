@@ -1,12 +1,15 @@
 # Hey, Navid's here 👋
 I develop system software, programming languages, parsers, compilers.
 
+## Blog
+Checkout my blog I write about coding, games, etc: [Dezashibi.com](https://dezashibi.com).
+
 ## My C Portfolio
 You can check out [here](https://github.com/dezashibi-c) for my articles and projects showcasing my C programming skills.
 
-## My skills 😏
-### My daily drivers
-![My Skills](https://skillicons.dev/icons?i=c,odin)
+## Like Odin programming language?
+You can check out [here](https://github.com/4odin)
 
-### Also experienced in
-![My Skills](https://skillicons.dev/icons?i=python,ts,js,svelte,tailwind,phaser)
+## Other
+I've been using one or more of these since 15+ years ago
+![My Skills](https://skillicons.dev/icons?i=c,rust,cpp,csharp,php,python,ts,js,svelte,tailwind,phaser)
