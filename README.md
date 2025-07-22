@@ -11,7 +11,7 @@ You can check out [here](https://github.com/dezashibi-c) for my articles and pro
 You can check out [here](https://github.com/4odin)
 
 ## Wanna see my codes with rust and some typescript/javascript game engines?
-Check out [here](https://github.com/mopts-stack).
+Check out [here](https://github.com/mopts-stack/repositories).
 
 ## Other
 I've been using one or more of these since 15+ years ago
