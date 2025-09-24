@@ -15,4 +15,4 @@ Check out [here](https://github.com/orgs/mopts-stack/repositories).
 
 ## Other
 I've been using one or more of these since 15+ years ago
-![My Skills](https://skillicons.dev/icons?i=cs,godot,c,rust,cpp,php,python,ts,js,svelte,tailwind,phaser)
+![My Skills](https://skillicons.dev/icons?i=cs,Unreal,godot,cpp,python,ts)
