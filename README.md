@@ -1,6 +1,6 @@
 # Hey, Navid's here 👋
 
-I'm about to reboot my career, so please wait for the next update 😉
+18 years walking in this path and still can't get enough of it 💪💪
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=cs,unreal,godot,cpp,python,ts)
+![My Skills](https://skillicons.dev/icons?i=cs,blazor,unreal,godot,cpp,python,ts)
